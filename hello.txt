@@ -1,2 +1,3 @@
 "Hello World!"
 "Adding a change to hello.txt."
+"This change may be more important than branch1."
